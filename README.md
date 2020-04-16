@@ -18,19 +18,20 @@ Matlab implementation of Keyfilter-Aware UAV Object Tracker (KAOT).
 
 ## Publications
 
-@inproceedings{Li2020ICRA,
-  title={Keyfilter-aware real-time uav object tracking},
-  author={Li, Yiming and Fu, Changhong and Huang, Ziyuan and Zhang, Yinqiang and Pan, Jia},
-  booktitle={IEEE International Conference on Robotics and Automation},
-  year={2020}
-}
+> @inproceedings{Li2020ICRA,
+>   title={Keyfilter-aware real-time uav object tracking},
+>   author={Li, Yiming and Fu, Changhong and Huang, Ziyuan and Zhang, Yinqiang and Pan, Jia},
+>   booktitle={IEEE International Conference on Robotics and Automation},
+>   year={2020}
+> }
 
-@article{Li2020TMM,
-  title={Intermittent Contextual Learning for Keyfilter-Aware UAV Object Tracking Using Deep Convolutional Feature},
-  author={Li, Yiming and Fu, Changhong and Huang, Ziyuan and Zhang, Yinqiang and Pan, Jia},
-  journal={IEEE Transactions on Multimedia},
-  year={2020}
-}
+> @article{Li2020TMM,
+>   title={Intermittent Contextual Learning for Keyfilter-Aware UAV Object Tracking Using Deep Convolutional Feature},
+>   author={Li, Yiming and Fu, Changhong and Huang, Ziyuan and Zhang, Yinqiang and Pan, Jia},
+>   journal={IEEE Transactions on Multimedia},
+>   year={2020}
+> }
+>
 
 ## Acknowledgements
 
